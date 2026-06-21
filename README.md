@@ -1,1 +1,1 @@
-# Ai-Based-Hospital-Management-System-main
+# Ai-Based-Hospital-Management-System
